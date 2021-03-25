@@ -1,0 +1,486 @@
+{
+ "annotation": {
+  "folder": "增值税普票",
+  "filename": "p22.jpg",
+  "path": "D:/inspur/增值税普票/增值税普票/p22.jpg",
+  "source": {
+   "database": "Unknown"
+  },
+  "size": {
+   "width": "2590",
+   "height": "1644",
+   "depth": "3"
+  },
+  "segmented": "0",
+  "object": [
+   {
+    "name": "开票日期",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "1875",
+     "ymin": "266",
+     "xmax": "2056",
+     "ymax": "309"
+    }
+   },
+   {
+    "name": "货物或应税劳务、服务名称",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "176",
+     "ymin": "618",
+     "xmax": "662",
+     "ymax": "662"
+    }
+   },
+   {
+    "name": "规格型号",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "793",
+     "ymin": "620",
+     "xmax": "969",
+     "ymax": "662"
+    }
+   },
+   {
+    "name": "单位",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "1069",
+     "ymin": "616",
+     "xmax": "1149",
+     "ymax": "659"
+    }
+   },
+   {
+    "name": "数量",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "1247",
+     "ymin": "620",
+     "xmax": "1358",
+     "ymax": "659"
+    }
+   },
+   {
+    "name": "单价",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "1489",
+     "ymin": "620",
+     "xmax": "1610",
+     "ymax": "661"
+    }
+   },
+   {
+    "name": "金额",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "1769",
+     "ymin": "624",
+     "xmax": "1921",
+     "ymax": "666"
+    }
+   },
+   {
+    "name": "税率",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "2043",
+     "ymin": "622",
+     "xmax": "2126",
+     "ymax": "662"
+    }
+   },
+   {
+    "name": "税额",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "2245",
+     "ymin": "622",
+     "xmax": "2401",
+     "ymax": "664"
+    }
+   },
+   {
+    "name": "合计",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "276",
+     "ymin": "1083",
+     "xmax": "549",
+     "ymax": "1122"
+    }
+   },
+   {
+    "name": "价税合计",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "241",
+     "ymin": "1159",
+     "xmax": "428",
+     "ymax": "1203"
+    }
+   },
+   {
+    "name": "收款人",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "147",
+     "ymin": "1477",
+     "xmax": "293",
+     "ymax": "1522"
+    }
+   },
+   {
+    "name": "复核",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "821",
+     "ymin": "1483",
+     "xmax": "908",
+     "ymax": "1522"
+    }
+   },
+   {
+    "name": "开票人",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "1339",
+     "ymin": "1481",
+     "xmax": "1476",
+     "ymax": "1527"
+    }
+   },
+   {
+    "name": "销售方",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "0",
+    "bndbox": {
+     "xmin": "1899",
+     "ymin": "1481",
+     "xmax": "2043",
+     "ymax": "1527"
+    }
+   },
+   {
+    "name": "名称",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "478",
+     "ymin": "355",
+     "xmax": "1482",
+     "ymax": "427"
+    }
+   },
+   {
+    "name": "纳税人识别号",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "476",
+     "ymin": "425",
+     "xmax": "1484",
+     "ymax": "488"
+    }
+   },
+   {
+    "name": "地址电话",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "476",
+     "ymin": "490",
+     "xmax": "1488",
+     "ymax": "546"
+    }
+   },
+   {
+    "name": "开户行及账号",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "475",
+     "ymin": "542",
+     "xmax": "1488",
+     "ymax": "609"
+    }
+   },
+   {
+    "name": "货物或应税劳务、服务名称",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "97",
+     "ymin": "661",
+     "xmax": "725",
+     "ymax": "807"
+    }
+   },
+   {
+    "name": "规格型号",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "725",
+     "ymin": "657",
+     "xmax": "1032",
+     "ymax": "812"
+    }
+   },
+   {
+    "name": "单位",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "1030",
+     "ymin": "655",
+     "xmax": "1206",
+     "ymax": "816"
+    }
+   },
+   {
+    "name": "数量",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "1228",
+     "ymin": "668",
+     "xmax": "1460",
+     "ymax": "822"
+    }
+   },
+   {
+    "name": "单价",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "1441",
+     "ymin": "668",
+     "xmax": "1710",
+     "ymax": "818"
+    }
+   },
+   {
+    "name": "金额",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "1714",
+     "ymin": "668",
+     "xmax": "2049",
+     "ymax": "825"
+    }
+   },
+   {
+    "name": "税率",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "2054",
+     "ymin": "661",
+     "xmax": "2204",
+     "ymax": "831"
+    }
+   },
+   {
+    "name": "税额",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "2208",
+     "ymin": "664",
+     "xmax": "2512",
+     "ymax": "833"
+    }
+   },
+   {
+    "name": "合计",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "1760",
+     "ymin": "1011",
+     "xmax": "2091",
+     "ymax": "1136"
+    }
+   },
+   {
+    "name": "税额",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "2151",
+     "ymin": "985",
+     "xmax": "2497",
+     "ymax": "1133"
+    }
+   },
+   {
+    "name": "价税合计",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "852",
+     "ymin": "1138",
+     "xmax": "1314",
+     "ymax": "1238"
+    }
+   },
+   {
+    "name": "价税合计",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "1995",
+     "ymin": "1138",
+     "xmax": "2354",
+     "ymax": "1246"
+    }
+   },
+   {
+    "name": "销售方名称",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "475",
+     "ymin": "1233",
+     "xmax": "1475",
+     "ymax": "1305"
+    }
+   },
+   {
+    "name": "销售方纳税人识别号",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "469",
+     "ymin": "1294",
+     "xmax": "1486",
+     "ymax": "1362"
+    }
+   },
+   {
+    "name": "销售方地址电话",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "473",
+     "ymin": "1351",
+     "xmax": "1482",
+     "ymax": "1418"
+    }
+   },
+   {
+    "name": "销售方开户行及账号",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "473",
+     "ymin": "1401",
+     "xmax": "1488",
+     "ymax": "1474"
+    }
+   },
+   {
+    "name": "收款人",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "319",
+     "ymin": "1466",
+     "xmax": "656",
+     "ymax": "1581"
+    }
+   },
+   {
+    "name": "复核",
+    "pose": "Unspecified",
+    "truncated": "0",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "939",
+     "ymin": "1468",
+     "xmax": "1291",
+     "ymax": "1612"
+    }
+   },
+   {
+    "name": "开票人",
+    "pose": "Unspecified",
+    "truncated": "1",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "1499",
+     "ymin": "1466",
+     "xmax": "1839",
+     "ymax": "1644"
+    }
+   },
+   {
+    "name": "销售方",
+    "pose": "Unspecified",
+    "truncated": "1",
+    "difficult": "1",
+    "bndbox": {
+     "xmin": "2064",
+     "ymin": "1472",
+     "xmax": "2378",
+     "ymax": "1644"
+    }
+   }
+  ]
+ }
+}
